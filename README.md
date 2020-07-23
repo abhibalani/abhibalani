@@ -9,7 +9,7 @@ Skilled in Python and related frameworks, Java (Spring Boot), React.js, Database
 
 Checkout my blog: [OddBlogger.com](https://oddblogger.com)
 
-## My Features Repositories
+## My Featured Repositories
 
 <a href="https://github.com/abhibalani/covid19-data-visualization">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhibalani&repo=covid19-data-visualization" />
