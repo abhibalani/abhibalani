@@ -24,8 +24,8 @@ Checkout my blog: [OddBlogger.com](https://oddblogger.com)
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhibalani&repo=emr_lambda" />
 </a>
 
-<a href="https://github.com/abhibalani/data-structures-python">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhibalani&repo=data-structures-python" />
+<a href="https://github.com/abhibalani/crypto-watch">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhibalani&repo=crypto-watch" />
 </a>
 
 
