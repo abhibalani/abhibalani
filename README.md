@@ -17,7 +17,7 @@ Skilled in Python and related frameworks, Java (Spring Boot), React.js, Database
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhibalani&repo=tinder-bot-python" />
 </a>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <a href="https://github.com/abhibalani/emr_lambda">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhibalani&repo=emr_lambda" />
@@ -28,7 +28,7 @@ Skilled in Python and related frameworks, Java (Spring Boot), React.js, Database
 </a>
 
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ___
 **My Github Stats**
