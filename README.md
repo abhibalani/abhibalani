@@ -9,12 +9,13 @@ Skilled in Python and related frameworks, Java (Spring Boot), React.js, Database
 
 [![linkedin badge](https://img.shields.io/badge/Abhishek_Balani-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishekbalani93)
 [![twitter badge](https://img.shields.io/badge/@abhibalani-30302f?style=flat&logo=twitter)](https://twitter.com/abhibalani)
-[![twitter badge](https://img.shields.io/badge/OddBlogger.com-30302f?style=flat&logo=blogger)](https://oddblogger.com)
+[![site badge](https://img.shields.io/badge/OddBlogger.com-30302f?style=flat&logo=blogger)](https://oddblogger.com)
+[![linkedin badge](https://img.shields.io/badge/Customize_your_Github_Profile-30302f?style=flat&logo=blogger)](https://oddblogger.com/personalizing-github-profile/)
 
 
 <!--Checkout my blog: [OddBlogger.com](https://oddblogger.com)-->
 
-[Customize your Github Profile](https://oddblogger.com/personalizing-github-profile/)
+<!--[Customize your Github Profile](https://oddblogger.com/personalizing-github-profile/)-->
 
 ## My Featured Repositories
 
