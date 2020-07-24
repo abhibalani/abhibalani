@@ -34,9 +34,9 @@ Checkout my blog: [OddBlogger.com](https://oddblogger.com)
 <br><br><br><br><br><br>
 
 ___
-<img src="https://github-readme-stats.vercel.app/api?username=abhibalani&show_icons=true&theme=tokyonight&show_icons=true&title_color=04d17c&text_color=05ff97&bg_color=0a192f" width="100%"/>
 
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhibalani&hide_langs_below=1)](https://github.com/abhibalani/github-readme-stats)
-
+  <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/python-logo.png" width="12%"/>
+  <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/java-logo.png" width="15%"/>
+  <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/react-logo.png" width="20%"/>
 
