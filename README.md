@@ -34,7 +34,7 @@ Checkout my blog: [OddBlogger.com](https://oddblogger.com)
 <br><br><br><br><br><br>
 
 
-## Technolgies
+## Technologies
 
 
   <img align="left" src="https://oddblogger.com/wp-content/uploads/2020/07/python-logo.png" width="12%"/>
