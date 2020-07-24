@@ -7,7 +7,12 @@
 I am **Abhishek Balani** currently working at [BharatPe](https://BharatPe.com). I am a Full Stack Software Engineer having a strong passion for new technologies, very autodidact and love to build new things from the ground up. Having 6 years of dynamic experience accumulated from working in early stage startups to mid-sized organizations in Agile environment.
 Skilled in Python and related frameworks, Java (Spring Boot), React.js, Databases, Hadoop Map-Reduce, Elastic Search and various AWS Services.
 
-Checkout my blog: [OddBlogger.com](https://oddblogger.com)
+[![linkedin badge](https://img.shields.io/badge/Abhishek_Balani-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishekbalani93)
+[![twitter badge](https://img.shields.io/badge/@abhibalani-30302f?style=flat&logo=twitter)](https://twitter.com/abhibalani)
+[![twitter badge](https://img.shields.io/badge/OddBlogger.com-30302f?style=flat&logo=blogger)](https://oddblogger.com)
+
+
+<!--Checkout my blog: [OddBlogger.com](https://oddblogger.com)-->
 
 [Customize your Github Profile](https://oddblogger.com/personalizing-github-profile/)
 
