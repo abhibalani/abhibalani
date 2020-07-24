@@ -9,6 +9,8 @@ Skilled in Python and related frameworks, Java (Spring Boot), React.js, Database
 
 Checkout my blog: [OddBlogger.com](https://oddblogger.com)
 
+[Customize your Github Profile](https://oddblogger.com/personalizing-github-profile/)
+
 ## My Featured Repositories
 
 <a href="https://github.com/abhibalani/covid19-data-visualization">
