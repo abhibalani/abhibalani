@@ -37,10 +37,6 @@ Skilled in Python and related frameworks, Java (Spring Boot), React.js, Database
 </a>
 
 
-<br><br><br><br><br><br>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhibalani&show_icons=true&theme=tokyonight&show_icons=true&title_color=04d17c&text_color=05ff97&bg_color=0a192f" width="100%"/>
 
 
 ## Technologies
